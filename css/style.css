@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+body {
+	background: #343436;
+	color: #ffffff;
+	text-align: center;
+}
+
+#main {
+	box-shadow: inset 0px 0px 5px rgba(0,0,0,0.9);
+	background: #1D1F20;
+}
+
+canvas {
+	margin-top: 7px;
+	margin-left: 7px;
+}
+
+a, a:hover{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a {
+	transition: linear 0.2s;
+}
+
+a:hover {
+	opacity: 0.8;
+}
+
+span {
+	font-size: 13px; 
+	font-family: 'Exo 2', sans-serif;
+}
